@@ -2,7 +2,8 @@
 
 
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-- Aprendendo desenvolvimento voltado à web.
+- Trabalhando como analista de suporte computacional, prestando suporte em SO's como Linux e Windows. Também prestando suporte em alguma aplicações, linguagens de programação e ferramentas.
+- Aprendendo desenvolvimento voltado à web e também mobile.
 - E-mail para contato: joaovm8080@gmail.com
 
 
